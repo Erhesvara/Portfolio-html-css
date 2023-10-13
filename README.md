@@ -11,3 +11,8 @@ Language plan to use:
 
   
 Start date: OCT 2023
+
+To do:
+- Update JS into PYTHON
+- Learn Tailwind CSS
+- Learn postgresql
