@@ -5,9 +5,10 @@
 - Compilation of my projects and ideas.
   
 Language plan to use: 
-- HTML
-- CSS
+- HTMX
+- CSS (Tailwind)
 - PYTHON
+- FastAPI
 
   
 Start date: OCT 2023
