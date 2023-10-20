@@ -18,3 +18,4 @@ To do:
 - Learn Tailwind CSS
 - Learn postgresql
 - Learn HTMLX + Flask
+- Learn FastAPI
