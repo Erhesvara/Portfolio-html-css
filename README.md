@@ -17,3 +17,4 @@ To do:
 - Update JS into PYTHON
 - Learn Tailwind CSS
 - Learn postgresql
+- Learn HTMLX + Flask
