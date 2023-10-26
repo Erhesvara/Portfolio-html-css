@@ -19,3 +19,6 @@ To do:
 - Learn postgresql
 - Learn HTMLX + Flask
 - Learn FastAPI
+
+Goal: 
+Transition JS to Python
