@@ -17,7 +17,7 @@ To do:
 - Update JS into PYTHON
 - Learn Tailwind CSS
 - Learn postgresql
-- Learn HTMLX + Flask
+- Learn HTMX + Flask
 - Learn FastAPI
 
 Goal: 
