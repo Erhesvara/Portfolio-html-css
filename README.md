@@ -23,3 +23,4 @@ To do:
 Goal: 
 - Transition JS to Python
 - CSS to Tailwind CSS
+- HTML to HTMX
