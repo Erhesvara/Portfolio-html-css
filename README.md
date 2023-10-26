@@ -21,4 +21,4 @@ To do:
 - Learn FastAPI
 
 Goal: 
-Transition JS to Python
+- Transition JS to Python
