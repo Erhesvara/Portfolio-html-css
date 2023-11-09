@@ -15,8 +15,7 @@
 - Learn React JS
 
 
-
-
 _Transition my html and css into tailwind css and react js_
+
 
 _Start date: OCT 2023_
