@@ -4,23 +4,15 @@
 - Compilation of academic and professional materials that exemplifies beliefs, skills, qualifications, education, training, and experiences.
 - Compilation of my projects and ideas.
   
-Technology plan to use: 
-- HTMX
+Technology:
+- HTML
 - CSS (Tailwind)
-- PYTHON
-- FastAPI
+- React JS
 
 To do:
-- Update JS into PYTHON
 - Learn Tailwind CSS
-- Learn postgresql
-- Learn HTMX + Flask
+- Learn React JS
 - Learn FastAPI
 
-Goal: 
-- Transition JS to Python
-- CSS to Tailwind CSS
-- HTML to HTMX
 
-  
 Start date: OCT 2023
