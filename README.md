@@ -12,7 +12,6 @@ Technology:
 To do:
 - Learn Tailwind CSS
 - Learn React JS
-- Learn FastAPI
 
 
 Start date: OCT 2023
