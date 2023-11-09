@@ -3,6 +3,7 @@
 - Portfolio websites  to promote myself, brand, or business.
 - Compilation of academic and professional materials that exemplifies beliefs, skills, qualifications, education, training, and experiences.
 - Compilation of my projects and ideas.
+
   
 ## Technology:
 - HTML
@@ -12,6 +13,8 @@
 ### To do:
 - Learn Tailwind CSS
 - Learn React JS
+
+
 
 
 _Transition my html and css into tailwind css and react js_
