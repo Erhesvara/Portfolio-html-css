@@ -10,7 +10,7 @@
 - CSS (Tailwind)
 - React JS
 - React Vite
-- 
+  
 ### To do:
 - Learn Tailwind CSS
 - Learn React JS
