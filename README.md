@@ -4,7 +4,7 @@
 - Compilation of academic and professional materials that exemplifies beliefs, skills, qualifications, education, training, and experiences.
 - Compilation of my projects and ideas.
   
-## Technology:
+## Technology used:
 - HTML
 - CSS (Tailwind)
 
