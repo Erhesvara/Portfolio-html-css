@@ -8,12 +8,3 @@
 - HTML
 - CSS (Tailwind)
 
-### To do:
-- Learn Tailwind CSS
-- Learn React JS
-
-_Transition my html and css into tailwind css and react js_
-
-_Start date: OCT 2023_
-
-Deadline: November 18, 2023
